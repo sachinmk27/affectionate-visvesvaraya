@@ -10,3 +10,7 @@ Given a list of users, build a users data table that displays users in a paginat
 - The table should update dynamically when the user navigates to a different page
 - Provide an option to select the number of users displayed per page (e.g., 5, 10, 20)
 
+
+
+https://github.com/user-attachments/assets/1f16aa49-de02-476b-831f-467a7d8822e2
+
